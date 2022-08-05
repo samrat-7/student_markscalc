@@ -1,0 +1,60 @@
+body {
+  text-align: center;
+}
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family:Bahnschrift SemiBold;
+}
+.bgg {
+  width: 100%;
+  min-height: 100vh;
+  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)),url("./a1.jpg");
+  display: flex;
+  justify-content: top;
+  align-items: center;
+  flex-direction: column;
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+}
+.container {
+  color: aliceblue;
+  margin-top: 0em;
+  width: 70%;
+  height: auto;
+  padding: 30px;
+  /*background-color: rgba(181, 181, 188, 0.607);*/
+}
+form {
+  padding-top: 2em;
+  padding-bottom: 0.2em;
+  padding-left: 2em;
+  background-color: rgba(0, 0, 0, 0.64);
+  font-size: large;
+}
+.example_a {
+  border: none;
+  background: #b2a8a8;
+  color: #000000 !important;
+  font-weight: 120;
+  padding: 10px;
+  border-radius: 10px;
+  display: inline-block;
+  transition: all 0.3s ease 0s;
+  margin-top: 0em;
+}
+.output {
+  font-size: large;
+  color: rgb(254, 254, 254);
+  background-color: #00000098;
+  margin-top: 1em;
+  padding: 1em;
+}
+.copy {
+  text-align: right;
+  color: rgb(66, 63, 61);
+  padding-top: 22.1%;
+  font-size: smaller;
+}
