@@ -11,7 +11,7 @@ def welcome():
 def function_to_calculate():
     var_1 = request.form.get("var_1", type=float, default=0)
     var_2 = request.form.get("operation", type=str, default="")
-    data=pd.read_csv("F:\studentmarks\student_scores.csv")
+    data=pd.read_csv("student_scores.csv")
     data.shape
     (25,2)
     x=data.iloc[:,:-1].values
