@@ -8,4 +8,5 @@ How many hours need to do the study to get 99% marks
 If I will do study x() hours per day so how much marks I will get
 
 Through these points the school/College can determine the performance of the student.
+
 ![abschlagsrechnung_t](https://user-images.githubusercontent.com/64132559/183257030-608d30b3-769c-4ce1-9ee2-b0707bb42c38.jpg)
