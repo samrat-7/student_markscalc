@@ -10,7 +10,7 @@ body {
 .bgg {
   width: 100%;
   min-height: 100vh;
-  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, 0.5)),url("./a1.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 1), rgba(0, 0, 0, -0.5)),url("./a1.jpg");
   display: flex;
   justify-content: top;
   align-items: center;
