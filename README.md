@@ -9,5 +9,5 @@ If I will do study x() hours per day so how much marks I will get
 
 Through these points the school/College can determine the performance of the student.
 
-![abschlagsrechnung_t](https://user-images.githubusercontent.com/64132559/183257030-608d30b3-769c-4ce1-9ee2-b0707bb42c38.jpg)
+
 ![Untitled design](https://user-images.githubusercontent.com/64132559/197334584-bf71dffe-3c9b-40c7-bf86-141b7066f2b7.png)
